@@ -15,8 +15,10 @@ da pasta local e executar Git status para verificar as mudanças.
 para subir (staged).
 7 - Utilizar o Git commit -m para registrar a mudança "Exercicios de Logica de programação"
 8 - fazer um GitPush  para que os novos arquivos seja enviado para Git Hub.
-9 - entrar com frase segredo do SSH (passphrase), PUSH realizado
+9 - entrar com frase segredo do SSH (passphrase), e PUSH realizado
 com sucesso.
 
 -----
 Extra - Utilização Git Pull para receber essa alteração feita diretamente no Git Hub.
+entrar com frase segredo do SSH (passphrase) para o Pull ser realizado
+com sucesso.
