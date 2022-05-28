@@ -1,0 +1,17 @@
+Passo-a-Passo do desafio:
+1 - Criar um repositorio no Git Hub
+2 - Copiar codigo de clonagem, no meu caso, utilizei o SSH
+obs: no momento de criação do repositorio eu coloquei
+um ponto final no nome(DIO-Desafio-Git.), quando foi gerado
+o link do clone SSH ficou assim (DIO-Desafio-Git..Git), que gerou
+um erro para executar o passo 3 que é git clone, solução foi 
+remover o ponto final.
+3 - executar o comando Git Clone no Terminal Git Bash
+4 - entrar com frase segredo do SSH (passphrase), clone realizado
+com sucesso
+5 - Criar os codigos que vão subir para o repositorio dentro
+da pasta local e executar Git status para verificar as mudanças.
+6 - utilizar o Git add . para que os novos arquivos sejam preparados
+para subir (staged).
+7 - Utilizar o Git commit -m para registrar a mudança "Exercicios de Logica de programação"
+8 - fazer um GitPush  para que os novos arquivos seja enviado para Git Hub.
